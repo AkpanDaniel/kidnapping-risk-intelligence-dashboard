@@ -24,6 +24,10 @@ The result is a tool that surfaces intelligence, not just numbers.
 - **Power BI** – dashboard design and interactive reporting
 - **DAX & Power Query** – measures and data transformation
 
+## Live Dashboard
+View the interactive Power BI report here:
+https://app.powerbi.com/groups/me/reports/74856bcf-16bf-4877-8f11-0a86ab8a1669/2f6501860892ca434b57?experience=power-bi
+
 ## Dashboard Pages
 
 ### 1. Executive Overview
