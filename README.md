@@ -77,8 +77,3 @@ This dashboard is version 1. I plan to add:
 
 
 **Built by [Akpan Daniel](https://github.com/AkpanDaniel)**
-
-
----
-
-**Built by [Akpan Daniel](https://github.com/AkpanDaniel)**
